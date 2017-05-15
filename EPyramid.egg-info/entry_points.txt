@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = epyramid:main
+      [console_scripts]
+      initialize_EPyramid_db = epyramid.scripts.initializedb:main
+      

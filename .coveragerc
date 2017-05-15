@@ -1,0 +1,3 @@
+[run]
+source = epyramid
+omit = epyramid/test*
